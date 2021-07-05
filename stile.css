@@ -1,0 +1,154 @@
+div.degradefundo {
+    font-family: roboto;
+    font-size: 30px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(
+    180deg,
+    #8a3ab9 0%,
+    rgba(76, 104, 215, 0.844444) 15.56%,
+    rgba(205, 72, 107, 0.638889) 36.11%,
+    rgba(251, 173, 80, 0.466667) 53.33%,
+    rgba(252, 204, 99, 0.288889) 71.11%,
+    rgba(188, 42, 141, 0.138889) 86.11%,
+    rgba(233, 89, 80, 0) 100%
+    
+  );
+    
+}
+.div formac {
+    position: absolute;
+}
+body {
+    background: #bc2a8d;
+  }
+
+div.TelaBranca{
+    position: absolute;
+    width: 1180px;
+    height: 649px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    border-radius: 10px;
+}
+
+div.MenuLateral{
+    position: absolute;
+    width: 100px;
+    height: 649px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.20);
+    background:#fff;
+    border-radius: 10px 0px 0px 10px;
+}
+#ativo {
+    background: #bc2a8d;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.MenuHome{
+    width: 1080px;
+    height: 80px;
+    margin-left: 100px;
+    padding-top: 10px;
+    border-radius: 0px 10px 0px 0px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background:#FFFFFF;
+}
+
+.Home {
+    font-family: roboto;
+    font-size: 25px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+div.stories{
+    display: flex;
+    width: 1080px;
+    height: 120px;
+    margin-left: 100px;
+    padding-top: 10px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    background:#fff;
+}
+.fotos {
+    font-family: roboto;
+    font-size: 12px;
+    color: black;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+div.alinhar {
+    display: flex;
+}
+div.card {
+    width: 320px;
+    height: 408px;
+    background:#fff;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    margin-left: 130px;
+    border-radius: 10px;
+}
+.mediacard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    height: 280px;
+
+}
+.padding {
+    padding: 10px;
+}
+.TopCard {  
+    font-family: roboto;
+    font-size: 12px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.intro
+{
+    font-family: roboto;
+    font-size: 14px;
+    color: black;
+    align-items: center;
+}
+.curtida {
+    font-family: roboto;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+.ultima {
+    font-family: roboto;
+    font-size: 12px;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
